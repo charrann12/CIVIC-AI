@@ -1,0 +1,6 @@
+{
+  "name": "Vibe2Ship Community AI Hub",
+  "description": "An automated, collaborative community issue tracking, verification, and resolution platform enabling citizens and public works crews to report, upvote, dispatch, and predict municipal infrastructure failures.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
